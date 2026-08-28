@@ -51,3 +51,6 @@
 - main: testing and reviewing code
 - sub: providing info
 - sub: emotional support
+
+# Notes:
+- The version listed in the changelog is for the whole repository, the versions of each file is listed in the commit message.
