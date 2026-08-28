@@ -15,7 +15,7 @@
 - Run the program by clicking "run"
 - Follow the instructions on the screen to make decks and study them.
 
-## Example output
+## Example output:
 - Make a new deck: yes
 - Add a question: yes
 
@@ -35,7 +35,7 @@
 
 - Try again: no
 
-## Contributers
+## Contributors:
 - ecupat:
 - main: maintaining the github
 - sub: documenter
