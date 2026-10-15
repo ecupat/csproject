@@ -54,3 +54,4 @@
 
 # Notes:
 - The version listed in the changelog is for the whole repository, the versions of each file is listed in the commit message.
+- Version format goes like: vX.x.x = Major, vx.X.x = Minor, vx.x.X = Hotfix.
