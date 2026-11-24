@@ -1,6 +1,9 @@
 # CHANGELOG
 ## This file lists all the updates we've made in our CS Project
 
+# v1.2.0 (11/24/26) (Minor)
+- Revised the CS Project Proposal
+
 # v1.1.1 (10/15/26) (Hotfix)
 - Added clarification for date and version in CHANGLOG.md
 - Added clarification for version formatting in the 'Notes' section in the README.md
